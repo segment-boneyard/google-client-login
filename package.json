@@ -1,0 +1,19 @@
+{
+  "name": "google-client-login",
+  "version": "0.0.1",
+  "repository": "git://github.com/segmentio/google-client-login.git",
+  "license": "MIT",
+  "description": "Get a Google client login token",
+  "keywords": [
+    "google",
+    "client",
+    "login",
+    "API"
+  ],
+  "dependencies": {
+    "superagent": "~0.16.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1"
+  }
+}
